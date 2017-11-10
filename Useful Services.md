@@ -33,6 +33,7 @@
 - http://www.gratisography.com/ - Бесплатные изображения
 - http://www.freepik.com/ - Бесплатные изображения
 - http://www.pexels.com/ - Бесплатные изображения
+- https://icons8.com/iconizer/ru - Коллекция иконок, групповой экспорт, генератор спрайтов
 
 
 ## Про порядок в PSD
